@@ -1,7 +1,8 @@
-# 🏛️ 庭律通 (LexMotion) - 臺灣律師隨身行動工作站
+# 🏛️ 庭律通 (Karolushi) - 臺灣律師隨身行動工作站
 
 > **專為臺灣執業律師與訴訟從業人員量身打造的極速、純本機、零廣告隨身出庭助理**  
-> *開發製作：楊時綱律師 製作分享*
+> *開發製作：楊時綱律師 製作分享*  
+> 💡 **更名啟事**：為避免與外界同名法律事務所混淆，本 App 正式更名為 **「Karolushi」**（原 LexMotion 名稱停止使用）。
 
 ---
 
@@ -9,12 +10,12 @@
 
 ### 📱 正式發布版 (v2.0 Release APK)
 
-[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v2.0_正式版_APK-2.78MB-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/lexmotion-for-lawyers/releases/download/v2.0/LexMotion-v2.0-release.apk)
+[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v2.0_正式版_APK-2.78MB-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/karolushi-for-lawyers/releases/download/v2.0/LexMotion-v2.0-release.apk)
   
-[![GitHub Release](https://img.shields.io/badge/Release-v2.0-blue?style=flat-square)](https://github.com/ysklushi/lexmotion-for-lawyers/releases/tag/v2.0)
+[![GitHub Release](https://img.shields.io/badge/Release-v2.0-blue?style=flat-square)](https://github.com/ysklushi/karolushi-for-lawyers/releases/tag/v2.0)
 [![📖 操作手冊](https://img.shields.io/badge/📖_操作手冊-完整指南-blue?style=flat-square)](./庭律通操作手冊.txt)
-[![適用平台](https://img.shields.io/badge/Platform-Android_8.0+-orange?style=flat-square&logo=android)](https://github.com/ysklushi/lexmotion-for-lawyers)
-[![隱私保證](https://img.shields.io/badge/Privacy-100%25_純本機存儲-green?style=flat-square)](https://github.com/ysklushi/lexmotion-for-lawyers)
+[![適用平台](https://img.shields.io/badge/Platform-Android_8.0+-orange?style=flat-square&logo=android)](https://github.com/ysklushi/karolushi-for-lawyers)
+[![隱私保證](https://img.shields.io/badge/Privacy-100%25_純本機存儲-green?style=flat-square)](https://github.com/ysklushi/karolushi-for-lawyers)
 [![意見回饋](https://img.shields.io/badge/Feedback-線上改善建議-purple?style=flat-square)](https://karolushi.netlify.app/#contact)
 
 </div>
@@ -23,7 +24,7 @@
 
 ## 🌟 軟體簡介與核心特點
 
-「庭律通（LexMotion）」是由 **楊時綱律師** 專為臺灣執業律師與訴訟從業同仁量身打造的隨身行動輔助工具。旨在協助各位道長在各級法院出庭、閱卷、等候開庭時，擁有最敏捷、乾淨、無廣告的極速隨身助理。
+「庭律通（Karolushi）」是由 **楊時綱律師** 專為臺灣執業律師與訴訟從業同仁量身打造的隨身行動輔助工具。旨在協助各位道長在各級法院出庭、閱卷、等候開庭時，擁有最敏捷、乾淨、無廣告的極速隨身助理。
 
 本工具恪守**「隱私第一」**原則：所有受任案件資料與開庭筆記，一律僅保存在您的手機本機端，絕不上傳任何外部伺服器，確保您的受任業務機密 100% 自主掌控。
 
@@ -148,7 +149,7 @@ A4：絕對不會。本工具完全採用本機隔離儲存，無任何雲端伺
 
 ## 📜 五、 軟體版本與免責聲明
 
-* **軟體名稱**：庭律通（LexMotion）
+* **軟體名稱**：庭律通（Karolushi，原名 LexMotion）
 * **軟體版本**：v2.0 正式發布版 (Release APK)
 * **適用環境**：Android 8.0 以上智慧型手機與平板
 * **開發作者**：楊時綱律師 製作分享
