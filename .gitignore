@@ -1,8 +1,21 @@
 # Binary packages (delivered via GitHub Releases)
 *.apk
 
-# Local private full spec manual
+# Local private full spec manual & internal notes
 庭律通使用說明書.txt
+庭律通app設計沿革.txt
+ANTIGRAVITY.md
+
+# Secrets & Keystores (never publish to public repo)
+.env
+.env.*
+*.pem
+*.key
+*.keystore
+*.jks
+keystores/
+keystore-secret*
+*-do-not-share.*
 
 # OS metadata
 .DS_Store
