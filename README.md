@@ -10,7 +10,7 @@
 
 ### 📱 正式發布版 (v3.0 Release APK)
 
-[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v3.0_正式版_APK-Android-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/karolushi-for-lawyers/releases/download/v3.0/庭律通-Karolushi-v3.0-release.apk)
+[![下載 Android APK](https://img.shields.io/badge/📥_立即下載_庭律通_v3.0_正式版_APK-Android-2ea44f?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ysklushi/karolushi-for-lawyers/releases/download/v3.0/Karolushi-v3.0-release.apk)
   
 [![GitHub Release](https://img.shields.io/badge/Release-v3.0-blue?style=flat-square)](https://github.com/ysklushi/karolushi-for-lawyers/releases/tag/v3.0)
 [![切換舊版 v2.0](https://img.shields.io/badge/🔁_舊版頁面-v2.0_存檔-slate?style=flat-square)](https://github.com/ysklushi/karolushi-for-lawyers/tree/v2.0)
